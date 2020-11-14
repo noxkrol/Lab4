@@ -1,1 +1,2 @@
-Halo
+To jest pierwszy plik
+na głównej gałęzi
